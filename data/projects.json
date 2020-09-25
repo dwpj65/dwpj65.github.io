@@ -1,0 +1,22 @@
+[
+  {
+    "project" : "Compare And Delete",
+    "location" : "https://github.com/dwpj65/cad---Compare-And-Delete",
+    "description" : "A Linux/MacOS CLI utility written in C (gcc) for performing binary comparison of two files or directories recursively and deleting matching files from the source."
+  },
+  {
+    "project" : "VS Code Extension Dump",
+    "location" : "https://github.com/dwpj65/python_vscode_extension_theme_dump",
+    "description" : "A python script to dump the extensions installed in an instance of VS Code, should be cross-platform."
+  },
+  {
+    "project" : "Folder JPGs to PDF",
+    "location" : "https://pastebin.com/V7RdrCrH",
+    "description" : "A cross-platform Python snippet that will combine .jpg images found in a folder to a single PDF."
+  },
+  {
+    "project" : "Youtube-dl .info.json files to pandas dataframe",
+    "location" : "https://pastebin.com/sb2BUk9Z",
+    "description" : "A cross-platform Python snippet that will recursively scan folders for youtube-dl's .info.json files and combine them to a Pandas dataframe, suitable for exporting to .CSV, .xlsx, or any other format supported by Pandas."
+  }
+]

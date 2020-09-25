@@ -18,8 +18,15 @@ a {
     color: rgb(255, 255, 212);
 }
 
-/*
-div {
-      opacity: 0.3;
+/* div.header {
+      opacity: 1;
+} */
+
+/* div {
+      opacity: 0.9;
+} */
+
+P {
+    opacity: 0.8;
 }
-*/
+
