@@ -1,32 +1,33 @@
 
-html { 
-    background-color: rgb(46, 46, 46);
-    color: rgb(199, 199, 179);
+html, body { 
+    color: rgb(191, 179, 199);
+    background-color: rgb(26, 26, 26);
     font-family: Arial, Helvetica, sans-serif;
     margin: 25px;
-    /* margin-right: 50px; */
-    /*
-    background: url(earthporn-0oum43a878t41.jpg) no-repeat center center fixed; 
+    /* background: url(/images/IMG_4043.jpg) no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
-    background-size: cover;
-    */
+    background-size: cover; */
 }
+
+/* #clock {
+    color: rgb(139, 7, 226);
+} */
 
 a {
     color: rgb(255, 255, 212);
 }
 
-/* div.header {
-      opacity: 1;
-} */
-
-/* div {
-      opacity: 0.9;
-} */
-
-P {
-    opacity: 0.8;
+.header, .centered {
+    text-align: center;
+    opacity: 1;
 }
 
+div {
+      opacity: 0.9;
+}
+
+p {
+    opacity: 0.8;
+}

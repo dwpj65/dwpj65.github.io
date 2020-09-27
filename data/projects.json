@@ -18,5 +18,15 @@
     "project" : "Youtube-dl .info.json files to pandas dataframe",
     "location" : "https://pastebin.com/sb2BUk9Z",
     "description" : "A cross-platform Python snippet that will recursively scan folders for youtube-dl's .info.json files and combine them to a Pandas dataframe, suitable for exporting to .CSV, .xlsx, or any other format supported by Pandas."
+  },
+  {
+    "project" : "fix_leading_numeric_parenthesized_filenames",
+    "location" : "https://pastebin.com/nqEKQ1Q1",
+    "description" : "A cross-platform Python snippet to recursively search for folder_name for files with the specified extension and a parenthesized number as the beginning of the file name, and remove the parenthesized number from the file name"
+  },
+  {
+    "project" : "add_datetime_stamp_to_files_in_folder",
+    "location" : "https://pastebin.com/hs8LvDXZ",
+    "description" : "A cross-platform Python snippet to recursively scans files in specified folder_name and adds date and time stamp code to filename if missing"
   }
 ]
